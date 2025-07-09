@@ -34,7 +34,6 @@
         "**/.idea": true,
         "**/.vscode": true,
         "**/.next": true,
-        "**/node_modules": true,
         "**/next-env.d.ts": true,
     }
 }
