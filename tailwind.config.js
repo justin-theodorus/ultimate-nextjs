@@ -56,9 +56,9 @@ module.exports = {
           500: "var(--color-dark-500)",
         },
         primary: {
-          100: "var(--color-primary-100)",
-          500: "var(--color-primary-500)",
-          DEFAULT: "var(--color-primary-500)",
+          100: "#fff1e6",
+          500: "#ff7000",
+          DEFAULT: "#ff7000",
         },
         link: {
           100: "var(--color-link-100)",
