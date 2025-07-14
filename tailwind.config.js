@@ -65,9 +65,15 @@ module.exports = {
         },
       },
       borderRadius: {
+        "2": '8px',
+        "1.5": '6px',
         lg: "var(--radius-lg)",
         md: "var(--radius-md)",
         sm: "var(--radius-sm)",
+      },
+      backgroundImage: {
+        "auth-dark": "url('/images/auth-dark.png')",
+        "auth-light": "url('/images/auth-light.png')",
       },
     },
   },
